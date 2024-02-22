@@ -1,0 +1,42 @@
+{
+    "1097275021": [
+        [
+            {
+                "city": "\u0422\u043e\u043a\u0438\u043e",
+                "country": "\u042f\u043f\u043e\u043d\u0438\u044f",
+                "room_amt": "2",
+                "search_func": "low"
+            },
+            [
+                {
+                    "price": "15900.95",
+                    "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/250782720.jpg?k=004ae53230a7fe907617ec700680082277daa5fe587d0d641d17bdb9a22200d4&o=",
+                    "address": "Sumida-ku Higashikomagata 2-11-2",
+                    "name": "plat hostel keikyu asakusa karin",
+                    "distance": "6.75",
+                    "score": 8.6,
+                    "id": "4480296"
+                },
+                {
+                    "price": "22934.21",
+                    "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/363328454.jpg?k=44521b2d8e4795b0e698ee07ae71990018f4b5cf805a12211a173502a35a4407&o=",
+                    "address": "Taito-ku Ikenohata 4-5-10",
+                    "name": "Hotel Graphy Nezu",
+                    "distance": "5.00",
+                    "score": 8.3,
+                    "id": "496136"
+                },
+                {
+                    "price": "44843.55",
+                    "main_photo_url": "https://cf.bstatic.com/xdata/images/hotel/square60/472500523.jpg?k=38d3fabf49624695b7b294370630adc74fa69cbab8c5b517c5c764e86d2cdb04&o=",
+                    "address": "\u65b0\u5bbf\u533a\u6b4c\u821e\u4f0e\u753a\uff12\u4e01\u76ee\uff19\u2212\uff11\uff15\u6b4c\u821e\u4f0e\u30c0\u30a4\u30e4\u30e2\u30f3\u30c9\u30d1\u30ec\u30b9",
+                    "name": "DP -Self Check in- Will send room number and password",
+                    "distance": "2.45",
+                    "score": 7.0,
+                    "id": "10332629"
+                }
+            ],
+            10
+        ]
+    ]
+}
